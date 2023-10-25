@@ -1,11 +1,13 @@
 {
-    "name": "TestCombatSystem",
+    "name": "TestCharacter",
     "rootNamespace": "",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "CombatSystem",
-        "TestPlayMode"
+        "TestPlayMode",
+        "TestCombatSystem",
+        "Character",
+        "CombatSystem"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
